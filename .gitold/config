@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[user]
+	name = natalie pantoja
+	email = thepinkpostit@gmail.com
+[remote "heroku"]
+	url = https://git.heroku.com/nataliepantojablogs.git
+	fetch = +refs/heads/*:refs/remotes/heroku/*
